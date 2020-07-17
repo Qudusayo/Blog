@@ -6,6 +6,8 @@ import Img from 'gatsby-image'
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
 
+import "prism-themes/themes/prism-atom-dark.css";
+import "prismjs/plugins/line-numbers/prism-line-numbers.css";
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
