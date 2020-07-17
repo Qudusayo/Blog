@@ -120,4 +120,4 @@ transporter.sendMail(mailOptions, function(error, info){
 });
 ```
 
-[Here is an In my github with a complete project](https://github.com/Qudusayo/mailqudusayo/blob/463f7dd1d6327ade7953a61c35281afd5d35e1d4/app.js#L30);
+[Here is an example in my github making a complete project with it](https://github.com/Qudusayo/mailqudusayo/blob/463f7dd1d6327ade7953a61c35281afd5d35e1d4/app.js#L30);
