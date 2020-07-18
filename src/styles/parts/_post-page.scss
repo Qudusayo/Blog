@@ -25,6 +25,7 @@
   max-height: 500px;
   background-color: $lightgray;
   overflow: hidden;
+  max-width: 100%;
   figure {
     position: relative;
     margin: 0;
@@ -42,6 +43,7 @@
   }
   .page-image {
     width: 100%;
+    max-width: 100%;
     height: 100%;
   }
 }
